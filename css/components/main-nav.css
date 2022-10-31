@@ -1,0 +1,19 @@
+.main-nav {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #fff;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-nav .logo {
+    flex: 20%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+    color: #180F4A;
+    margin-left: 10%;
+}
