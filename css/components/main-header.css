@@ -1,0 +1,6 @@
+.main-header {
+    height: 600px;
+    background-color: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
