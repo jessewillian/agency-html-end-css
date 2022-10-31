@@ -1,5 +1,7 @@
 .head-img {
-    border: 1px solid red;
-    flex: 40%;
-    margin-right: 10%
+    text-align: center;
+}
+
+.head-img .img {
+    max-width: 90%;
 }

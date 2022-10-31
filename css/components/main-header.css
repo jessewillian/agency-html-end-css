@@ -1,6 +1,30 @@
 .main-header {
-    height: 600px;
-    background-color: grey;
     display: flex;
     flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine
+}
+
+.main-header .head-line {
+    flex: 40%;
+    margin-left: 10%;
+    border: 1px solid black;
+}
+
+.main-header .head-img {
+    flex: 40%;
+    margin-right: 10%;
+}
+
+.botao-head {
+    background-color: #FF2978;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.botao-head:hover {
+    background-color: #180F4A;
 }
