@@ -1,0 +1,44 @@
+.card-section {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.card {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    margin: 1%;
+    border: 1px solid #FF2978;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: #FF2978;
+    color: white;
+    padding: 40px;
+}
+
+.card:hover .box-card {
+    display: none;
+}
+
+.card:hover .text-hover {
+    display: block;
+}
+
+.card:hover .none {
+    display: none;
+}
+
+
+.title-card {
+    color: #180F4A;
+    font-size: 25px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.text-hover {
+    display: none;
+}

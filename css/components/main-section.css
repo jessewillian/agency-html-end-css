@@ -1,0 +1,16 @@
+.main-section {
+    margin-top: 80px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: inline-block;
+    text-align: center;
+    padding: 5%;
+}
+
+.main-section .title-section {
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: bold;
+    color: #180F4A;
+}

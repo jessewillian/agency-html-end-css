@@ -12,8 +12,11 @@
     text-align: left;
     font-size: 34px;
     font-weight: bold;
-    font-style: italic;
     color: #180F4A;
     margin-left: 10%;
     pointer-events: none;
+}
+
+.logo .title-logo {
+    font-family: 'Dancing Script', cursive;
 }
