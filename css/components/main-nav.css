@@ -15,4 +15,5 @@
     font-style: italic;
     color: #180F4A;
     margin-left: 10%;
+    pointer-events: none;
 }
